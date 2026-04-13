@@ -5,3 +5,9 @@ earth_age_bln += 0.1
 print (earth_age_bln)
 
 asia_wishlist = ["Bhutan", "Ha Long", "Laos", "Danxia"]
+
+msg = "life is beautiful"
+if msg == "I love you":
+    print ("propose")
+else:
+    print ("wait xP")
